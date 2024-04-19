@@ -928,3 +928,19 @@ udp://@225.1.1.76:30120
 udp://@225.1.1.73:30120
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 udp://@225.1.1.77:30120
+
+
+#EXTINF:-1, Cinemax Asia
+#EXTGRP:Quốc Tế (HD)
+http://ip168.homeip.net:8086/cinemax.m3u8
+#EXTINF:-1, SPOTV
+#EXTGRP:Quốc Tế (HD)
+http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:-1, SPOTV2
+#EXTGRP:Quốc Tế (HD)
+http://202.150.161.68/spotv2/index.m3u8
+#EXTINF:-1, KIX HD
+#EXTGRP:Quốc Tế (HD)
+http://210.210.155.37/dr9445/h/h07/01.m3u8
+#EXTINF:-1, Love Nature
+#EXTGRP:Quốc Tế (HD)
